@@ -1,0 +1,8 @@
+[
+    {
+        "remote":       "github",
+        "repository":   "DreamsTuna/device-samsung-maguro",
+        "target_path":  "device/samsung/tuna",
+        "revision":     "kitkat"
+    }
+]
